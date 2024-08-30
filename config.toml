@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
-languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
-theme = 'netlify-basic'
+baseURL = 'https://szachy.audycje.com.pl'
+languageCode = 'pl-pl'
+title = 'Szachy - Fundacja Więcej Mądrości'
+theme = 'hugo-PaperMod-master'
