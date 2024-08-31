@@ -65,14 +65,14 @@
     border-radius: 100%;
 }
 .carousel ol li.selected a {
-    background: white;
+    background: gray;
 }
 .carousel .prev, .carousel .next {
     display: none;
     user-select: none;
     cursor: pointer;
     font-size: 50px;
-    color: white;
+    color: gray;
     position: absolute;
     left: 0;
     padding: 15px 15px 30px;
