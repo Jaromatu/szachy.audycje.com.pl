@@ -1,5 +1,5 @@
 images: 
-  - image: /uploads/carousel/image1.jpg
+  - image: /uploads/carousel/image1.png
     content_html: "1"
   - image: /uploads/carousel/image2.jpg
     content_html: "2"
