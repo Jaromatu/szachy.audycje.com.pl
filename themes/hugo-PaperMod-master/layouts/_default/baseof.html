@@ -22,6 +22,11 @@
         {{- block "main" . }}{{ end }}
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+
+<!-- Inne skrypty i zamykający tag body -->
+<script type="text/javascript" src="{{ "js/carousel.js" | relURL }}"></script>
+<link rel="stylesheet" href="{{ "css/carousel.css" | relURL }}">
+
 </body>
 
 </html>
