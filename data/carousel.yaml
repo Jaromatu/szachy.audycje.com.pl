@@ -3,3 +3,15 @@ images:
     content_html: "1"
   - image: /uploads/carousel/image2.jpg
     content_html: "2"
+  - image: /uploads/carousel/image3.jpg
+    content_html: "3"
+  - image: /uploads/carousel/image4.jpg
+    content_html: "4"
+  - image: /uploads/carousel/image5.jpg
+    content_html: "5"
+  - image: /uploads/carousel/image6.jpg
+    content_html: "6"
+  - image: /uploads/carousel/image7.jpg
+    content_html: "7"
+  - image: /uploads/carousel/image8.jpg
+    content_html: "8"
