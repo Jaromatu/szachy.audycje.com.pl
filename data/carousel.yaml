@@ -1,17 +1,17 @@
 images: 
   - image: /uploads/carousel/image1.png
     content_html: "1"
-  - image: /uploads/carousel/image2.jpg
+  - image: /uploads/carousel/image2.png
     content_html: "2"
-  - image: /uploads/carousel/image3.jpg
+  - image: /uploads/carousel/image3.png
     content_html: "3"
-  - image: /uploads/carousel/image4.jpg
+  - image: /uploads/carousel/image4.png
     content_html: "4"
-  - image: /uploads/carousel/image5.jpg
+  - image: /uploads/carousel/image5.png
     content_html: "5"
-  - image: /uploads/carousel/image6.jpg
+  - image: /uploads/carousel/image6.png
     content_html: "6"
-  - image: /uploads/carousel/image7.jpg
+  - image: /uploads/carousel/image7.png
     content_html: "7"
-  - image: /uploads/carousel/image8.jpg
+  - image: /uploads/carousel/image8.png
     content_html: "8"
