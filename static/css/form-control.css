@@ -1,0 +1,13 @@
+.form-control {
+    border: 2px solid #cccccc; /* Kolor ramki */
+    border-radius: 5px; /* Zaokrąglone rogi */
+    padding: 10px; /* Wewnętrzne marginesy dla lepszego wyglądu */
+    font-size: 16px; /* Rozmiar tekstu */
+    outline: none; /* Usunięcie domyślnego obramowania przy focus */
+    box-sizing: border-box; /* Zapewnienie poprawnego rozmiaru elementu z uwzględnieniem paddingu i borderu */
+}
+
+.form-control:focus {
+    border-color: #007bff; /* Kolor ramki po najechaniu na pole */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Dodanie efektu poświaty przy focus */
+}

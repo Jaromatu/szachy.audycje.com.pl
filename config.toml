@@ -2,3 +2,18 @@ baseURL = 'https://szachy.audycje.com.pl'
 languageCode = 'pl-pl'
 title = 'Szachy - Fundacja Więcej Mądrości'
 theme = 'hugo-PaperMod-master'
+
+[params]
+    showReadingTime = true
+    showBreadCrumbs = true
+    showPostNavLInks = false
+
+[[menu.main]]
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 1
+
+[[menu.main]]
+    name = "Kanał YouTube"
+    url = "https://youtube.com/"
+    weight = 2

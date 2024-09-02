@@ -1,0 +1,85 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">
+      {{ .Title }}
+      {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+    </h1>
+    {{- if .Description }}
+    <div class="post-description">
+      {{ .Description }}
+    </div>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <div class="post-meta">
+      {{- partial "post_meta.html" . -}}
+      {{- partial "translation_list.html" . -}}
+      {{- partial "edit_post.html" . -}}
+      {{- partial "post_canonical.html" . -}}
+    </div>
+    {{- end }}
+  </header>
+  {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
+  {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
+  {{- if (.Param "ShowToc") }}
+  {{- partial "toc.html" . }}
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+  </div>
+  <img src="/uploads/email2.jpg"/>
+  <br/> <br/>
+  <h3> Skontaktuj się z nami </h3>
+  <br/> 
+  <link rel="stylesheet" href="css/form.css" >
+  
+<form method="get">
+  <div class="mb-3">Tytuł wiadomości: </label>
+  <input type="subject" class="form-control" id="subject" placeholder="Tutaj wprowadź tytuł wiadomości">
+</div>
+<div class="mb-3">
+  <label for="message" class="form-label">Treść wiadomości</label>
+  <textarea class="form-control" id="message" rows="6" placeholder="Tutaj wprowadź treść wiadomości..."></textarea>
+</div>
+
+  <button  type="submit" onclick="sendMail();" class="btn btn-dark">Wyślij </button>
+  
+  
+</form>
+
+<script>
+    function sendMail() {
+        var subject = encodeURIComponent($('#subject').val());
+        var message = encodeURIComponent($('#message').val());
+
+        var mailtoLink = 'mailto:kontakt@audycje.com.pl?subject=' + subject + '&body=' + message;
+
+        window.location.href = mailtoLink;
+    };
+</script>
+
+  {{- end }}
+
+  <footer class="post-footer">
+    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+    <ul class="post-tags">
+      {{- range ($.GetTerms $tags) }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+   
+  </footer>
+
+  {{- if (.Param "comments") }}
+  {{- partial "comments.html" . }}
+  {{- end }}
+</article>
+
+{{- end }}{{/* end main */}}
+
