@@ -10,8 +10,9 @@ https://lichess.org/tournament/3gZw05oe
 hasło: Zaduszki
 
 <br>W niedzielę, 03.11.2024 o godz 16.00 zapraszamy do gry początkujących graczy, oraz tych bez kategorii szachowe, wejście na turniej:
-https://lichess.org/tournament/
+https://lichess.org/tournament/ScoYikYU
 hasło: Zaduszki
+<br>
 <i>"Trening czyni mistrza..."</i>
 
 <br>
