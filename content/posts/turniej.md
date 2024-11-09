@@ -15,12 +15,12 @@ https://lichess.org/tournament/zbXL5wyj
 hasło: skakun
 
 
-<br>W niedzielę, 03.11.2024 o godz 16.00 zapraszamy do gry początkujących graczy, oraz tych bez kategorii szachowe, wejście na turniej:
+<br>W niedzielę, 03.11.2024 o godz 16.00 zapraszamy do gry początkujących graczy, oraz tych bez kategorii szachowej, wejście na turniej:
 https://lichess.org/tournament/ScoYikYU
 hasło: Zaduszki
 <br>
 
-<br>W sobotę, 02.11.2024 o godz 17.00 zapraszamy do gry bardziej zaawansownych graczy, ok 4 kategorii szachowe, wejście na turniej:
+<br>W sobotę, 02.11.2024 o godz 17.00 zapraszamy do gry bardziej zaawansownych graczy, ok 4 kategorii szachowej, wejście na turniej:
 https://lichess.org/tournament/3gZw05oe
 hasło: Zaduszki
 
