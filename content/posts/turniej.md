@@ -10,7 +10,7 @@ https://lichess.org/tournament/qgT0MlSQ
 hasło: giermek
 <br>
 
-<br>W poniedziałek, 11.11.2024 o godz 16.00 zapraszamy do gry początkujących graczy, ok 4 kategorii szachowej, wejście na turniej:
+<br>W poniedziałek, 11.11.2024 o godz 16.00 zapraszamy do gry początkujących graczy, bez kategorii szachowej, wejście na turniej:
 https://lichess.org/tournament/zbXL5wyj
 hasło: skakun
 
