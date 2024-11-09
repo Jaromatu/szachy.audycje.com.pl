@@ -9,7 +9,7 @@ Uruchamiamy kolejne turnieje i inne atrakcje dla początkujących i kontynuując
 https://lichess.org/tournament/qgT0MlSQ
 hasło: giermek
 <br>
-<br>W poniedziałek, 11.11.2024 o godz 17.00 zapraszamy do gry bardziej zaawansownych graczy, ok 4 kategorii szachowe, wejście na turniej:
+<br>W poniedziałek, 11.11.2024 o godz 16.00 zapraszamy do gry bardziej zaawansownych graczy, ok 4 kategorii szachowe, wejście na turniej:
 https://lichess.org/tournament/zbXL5wyj
 hasło: skakun
 
