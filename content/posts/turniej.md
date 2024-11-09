@@ -9,7 +9,7 @@ Uruchamiamy kolejne turnieje i inne atrakcje dla początkujących i kontynuując
 https://lichess.org/tournament/qgT0MlSQ
 hasło: giermek
 <br>
-### <br>W niedzielę, 10.11.2024 o godz 16.30 zapraszamy do gry od ok 4 kategorii szachowej w górę, wejście na turniej:
+### <br>W niedzielę, 10.11.2024 o godz 16.30 zapraszamy do gry bardziej zaawansownych, tj od 4 kategorii szachowej w górę, wejście na turniej:
 https://lichess.org/tournament/G34uw8Pk
 
 ### <br>W poniedziałek, 11.11.2024 o godz 16.00 zapraszamy do gry początkujących graczy, bez kategorii szachowej, wejście na turniej:
