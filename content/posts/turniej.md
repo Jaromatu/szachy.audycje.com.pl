@@ -10,20 +10,21 @@ https://lichess.org/tournament/zbXL5wyj
 hasło: skakun
 
 UWAGA! Po rozegranej partii naciśnij "wróć do gry". 
-Po turnieju głównym zapraszam na wspólne wyścigi w rozwiązywaniu zadań:
-1 dzieci zajmujące miejsca od 1 do 10 : https://lichess.org/racer/mm6ZD
-2 dzieci zajmujące miejsca od 11 do 21 końca: https://lichess.org/racer/N3igl
-3 dzieci zajmujące miejsca od 22 do końca tabeli: https://lichess.org/racer/1gWN5
+
+### Po turnieju głównym zapraszam na wspólne wyścigi w rozwiązywaniu zadań:
+1. dzieci zajmujące miejsca od 1 do 10 grają tutaj: https://lichess.org/racer/mm6ZD
+2. dzieci zajmujące miejsca od 11 do 21 grają tutaj: https://lichess.org/racer/N3igl
+3. dzieci zajmujące miejsca od 22 do końca tabeli grają tutaj: https://lichess.org/racer/1gWN5
 Powodzenia!
 
 ### <br>W poniedziałek, 11.11.2024 o godz 16.30 zapraszamy do gry bardziej zaawansownych, tj od 5 kategorii szachowej w górę, wejście na turniej:
 https://lichess.org/tournament/zbXL5wyj
 hasło:skakun
 
-Po turnieju głównym zapraszam na wspólne wyścigi w rozwiązywaniu zadań:
-1 osoby zajmujące miejsca od 1 do 10 : https://lichess.org/racer/xRp2T
-2 osoby zajmujące miejsca od 11 do 21 końca:  https://lichess.org/racer/0tIVb
-3 osoby zajmujące miejsca od 22 do końca tabeli:  
+### Po turnieju głównym zapraszam na wspólne wyścigi w rozwiązywaniu zadań:
+1. osoby zajmujące miejsca od 1 do 10 grają tutaj: https://lichess.org/racer/xRp2T
+2. osoby zajmujące miejsca od 11 do 21 grają tutaj:  https://lichess.org/racer/0tIVb
+3. osoby zajmujące miejsca od 22 do końca tabeli grają tutaj:  
 
 ### <br>W niedzielę, 10.11.2024 o godz 16.00 zapraszamy do gry początkujących graczy, tych bez kategorii szachowej, wejście na turniej:
 https://lichess.org/tournament/qgT0MlSQ
