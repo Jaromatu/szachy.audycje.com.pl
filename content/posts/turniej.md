@@ -18,8 +18,8 @@ UWAGA! Po rozegranej partii naciśnij "wróć do gry".
 Powodzenia!
 
 ### <br>W poniedziałek, 11.11.2024 o godz 16.30 zapraszamy do gry bardziej zaawansownych, tj od 5 kategorii szachowej w górę, wejście na turniej:
-https://lichess.org/tournament/zbXL5wyj
-hasło:skakun
+https://lichess.org/tournament/OJObbqCX
+hasło:skakun11
 
 ### Po turnieju głównym zapraszam na wspólne wyścigi w rozwiązywaniu zadań:
 1. osoby zajmujące miejsca od 1 do 10 grają tutaj: https://lichess.org/racer/xRp2T
