@@ -5,6 +5,14 @@ date: 2024-08-30T09:38:32+02:00
 ### W związku z nowym rokiem szkolnym 
 Uruchamiamy kolejne turnieje i inne atrakcje dla początkujących i kontynuujących u nas naukę szachistów. 
 
+### <br>W niedzielę, 24.11.2024 o godz 16.00 zapraszamy do gry początkujących graczy, tych bez kategorii szachowej, wejście na turniej:
+lichess.org/tournament/KYNfmuTa
+hasło: wiedza!
+<br>
+### <br>W niedzielę, 24.11.2024 o godz 16.30 zapraszamy do gry bardziej zaawansownych, tj od 5 kategorii szachowej w górę, wejście na turniej:
+lichess.org/tournament/q90IUF2N
+hasło: wiedza!
+
 ### <br>W niedzielę, 17.11.2024 o godz 16.00 zapraszamy do gry początkujących graczy, tych bez kategorii szachowej, wejście na turniej:
 https://lichess.org/tournament/AipnDBnw
 hasło: listopad
