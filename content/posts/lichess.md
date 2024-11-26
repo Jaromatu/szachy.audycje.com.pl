@@ -20,8 +20,9 @@ date: 2024-08-30T09:38:32+02:00
 - klikamy niebieski napis "Zarejestruj się".
 
 3. Następnie dołączamy do naszego klubu szkolnego - wchodzimy tu: https://lichess.org/team/me
+- wybieramy zakładkę (po lewej stronie ekranu) "Wszystkie kluby",
 
-- alternatywnie poprzez zakładakę "Społeczność", następnie "Kluby",
+- alternatywnie można zrobić TO SAMO poprzez zakładakę "Społeczność", następnie wybrać: "Kluby",
 - wybieramy zakładkę (po lewej stronie ekranu) "Wszystkie kluby",
 - szukamy klubu w polu z "lupą", jaka zostanie wysłana na podany przez Państwo sms lub mail (wysyłamy je na dane podane podczas zapisywania dziecka na zajęcia),
 - wybieramy klub o właściwej nazwie, zwykle jest to nazwa szkoły lub innej plaćówki, jak dom kultury, przykładowo:
