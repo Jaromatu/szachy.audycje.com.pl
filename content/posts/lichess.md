@@ -1,7 +1,10 @@
 ---
 title: "Konto szachowe i treningi online"
+date: 2024-08-30T09:38:32+02:00
+---
 
-<i>"Trening czyni mistrza..."</i>
+
+###<i>"Trening czyni mistrza..."</i>
 
 <br>
 
