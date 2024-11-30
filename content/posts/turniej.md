@@ -10,6 +10,11 @@ https://lichess.org/tournament/4zDBHANx
 hasło: pionek
 
 ### <br>W niedzielę, 24.11.2024 o godz 16.30 zapraszamy do gry bardziej zaawansownych, tj od 5 kategorii szachowej w górę, wejście na turniej:
+ lichess.org/tournament/uy6MUPyr 
+ hasło: pionek
+
+ 
+### <br>W niedzielę, 24.11.2024 o godz 16.30 zapraszamy do gry bardziej zaawansownych, tj od 5 kategorii szachowej w górę, wejście na turniej:
 hasło: pionek
 
 ### <br>W niedzielę, 24.11.2024 o godz 16.00 zapraszamy do gry początkujących graczy, tych bez kategorii szachowej, wejście na turniej:
