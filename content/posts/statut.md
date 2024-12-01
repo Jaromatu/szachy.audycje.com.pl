@@ -1,12 +1,16 @@
-##Statut Fundacji „Więcej Mądrości”
+---
+title: "Statut Fundacji „Więcej Mądrości”"
+date: 2024-08-30T09:38:32+02:00
+---
 
-Rozdział Cele Fundacji
+###Rozdział Cele Fundacji
 
 Celem Fundacji jest działalność służąca tworzeniu korzystnych warunków dla rozwoju
 przedsiębiorczości, innowacji oraz wszechstronne działanie na rzecz postępu edukacyjnego,
 społecznego, kulturalnego i ekonomicznego społeczności lokalnych i regionalnych według
 zasady zrównoważonego rozwoju.
-Rozdział Zasady, formy i zakres działania
+
+###Rozdział Zasady, formy i zakres działania
 
 Fundacja realizuje swoje cele poprzez następujące działania:
 1. krzewienie przedsiębiorczości, innowacji i postaw obywatelskich w społecznościach
