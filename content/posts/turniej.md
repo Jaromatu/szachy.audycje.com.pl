@@ -11,6 +11,18 @@ https://www.ddkbronowice.pl/wydarzenia/konkursy/mikolajkowy-turniej-szachowy
 
 ### UWAGA! Ograniczona liczba miejsc. Decyduje kolejność zgłoszeń!!!
 
+### Dzień dobry, jak zwykle w niedzielę gramy 2 turnieje pierwszy o 16:00 dla początkujących 
+
+### <br>W niedzielę, 08.12.2024 o godz 16.00 zapraszamy do gry początkujących graczy, tych bez kategorii szachowej, wejście na turniej:
+
+Dzień dobry, jak zwykle w niedzielę gramy 2 turnieje pierwszy o 16:00 dla początkujących 
+lichess.org/tournament/anka1bHZ
+hasło: mistrz
+
+
+### W niedzielę, 08.12.2024, drugi dla średniozaawansowanych o 16:30 lichess.org/tournament/oJ1Gva2t 
+hasło: mistrz
+
 
 ### <br>W niedzielę, 01.12.2024 o godz 16.00 zapraszamy do gry początkujących graczy, tych bez kategorii szachowej, wejście na turniej:
 https://lichess.org/tournament/4zDBHANx 
