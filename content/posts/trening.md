@@ -5,23 +5,31 @@ date: 2025-01-28
 ### W związku z nowym rokiem 2025
 ### Uruchamiamy kolejne udogodnienia i atrakcje dla początkujących i kontynuujących u nas naukę szachistów. 
 
-### <br> Nasza Fundacja 
+### <br> Nasza Fundacja daje nowe możliwości lepszego, szybszego i głębszego rozwoju ucznia poprzez indywidualne przydzielanie i sprawdzanie zadań i systemu pracy!
 
 https://app.szkolkaszachowa.pl/
 
-### UWAGA! Ograniczona liczba miejsc. Decyduje kolejność zgłoszeń!!!
+### UWAGA! Ograniczona liczba miejsc!!!
 
 ### Dzień dobry, logowania do systemu treningowego dla uczniów
 ![ekran logowania](/uploads/chess-logowanie.png)
 Dzień dobry, zapraszamy do nowej platformy treningowej dla naszych uczniów 
 
-### login (to nazwa konta tego ucznia na Lichess): JanekZet
-### hasło: szach
-
+### login to nazwa konta tego ucznia na Lichess np:
+### login : JanekZet
+### hasło to hasło jakie zostanie wysłane do danego ucznia POPRZEZ wiadomość na Lichess na konto ucznia! czyli uczeń z loginem "JAnekZet" dostanie na konto na Lichess "JanekZet" wiadomość od trenera z hasłem do portalu "szkolkaszachowa" np
+### hasło: szachy96
+<br>
+### Uczeń dostanie zupełnie nowe narzędzia treningowe:
 ![ekran panel](/uploads/chess-panel.png)
 
-
+### Uczeń dostanie indywidualnie przydzielane i sprawdzane zadania i wiadomości np wiedzę debiutową:
 ![ekran zadania](/uploads/chess-zadania.png)
+
+### Daje to niemal korzyści porównywalne z indywidualną pracą z osobistym trenerem, co zwykle wiąże się z bardzo dużymi kosztami, bo jednak godzina pracy inywidualnej dobrego trenera to 200 zł, co miesięcznie daje spore koszty.
+Tutaj będą możliwości od darmowego korzystania dla naszych uczniów do płatnych, ale i tak za tylką małą część kosztów, jaka by normalnie się ponosiło.
+
+### Otworzy to wspaniałe możliwości dla zdolnych i bardzo zdolnych dzieci, jakie mając grupowe zajęcia raz na tydzień nie mają żadnych szans się rozwinąć na swoją pełną miarę....
 
 
 <i>"Trening czyni mistrza..."</i>
