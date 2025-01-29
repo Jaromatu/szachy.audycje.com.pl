@@ -17,7 +17,7 @@ Dzień dobry, zapraszamy do nowej platformy treningowej dla naszych uczniów
 login (imię i nazwisko ucznia): Jan Kowalski
 hasło: szach
 
-![Local Image](static/uploads/chess-logowanie.png "Local Image")
+![Local Image](/static/uploads/chess-logowanie.png "Local Image")
 
 
 <i>"Trening czyni mistrza..."</i>
