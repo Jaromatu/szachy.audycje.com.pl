@@ -13,7 +13,7 @@ https://app.szkolkaszachowa.pl/
 
 ### Dzień dobry, logowania do systemu treningowego dla uczniów
 ![Local Image](https://github.com/GreenBrowne/szachy.audycje.com.pl/content/posts/images/chess-logowanie.png "Local Image")
-
+![Local Image](https://github.com/GreenBrowne/szachy.audycje.com.pl/blob/main/static/uploads/logowanie.png)
 Dzień dobry, zapraszamy do nowej platformy treningowej dla naszych uczniów 
 
 ### login (to nazwa konta tego ucznia na Lichess): JanekZet
