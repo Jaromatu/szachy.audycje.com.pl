@@ -12,8 +12,7 @@ https://app.szkolkaszachowa.pl/
 ### UWAGA! Ograniczona liczba miejsc. Decyduje kolejność zgłoszeń!!!
 
 ### Dzień dobry, logowania do systemu treningowego dla uczniów
-![Local Image](https://github.com/GreenBrowne/szachy.audycje.com.pl/content/posts/images/chess-logowanie.png "Local Image")
-![Local Image](/static/uploads/logowanie.png)
+![alt text](/uploads/chess-logowanie.png)
 Dzień dobry, zapraszamy do nowej platformy treningowej dla naszych uczniów 
 
 ### login (to nazwa konta tego ucznia na Lichess): JanekZet
