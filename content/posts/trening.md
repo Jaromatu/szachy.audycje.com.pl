@@ -12,12 +12,14 @@ https://app.szkolkaszachowa.pl/
 ### UWAGA! Ograniczona liczba miejsc. Decyduje kolejność zgłoszeń!!!
 
 ### Dzień dobry, logowania do systemu treningowego dla uczniów
+![Local Image](/content/posts/images/chess-logowanie.png "Local Image")
 
 Dzień dobry, zapraszamy do nowej platformy treningowej dla naszych uczniów 
-login (imię i nazwisko ucznia): Jan Kowalski
-hasło: szach
 
-![Local Image](/content/posts/images/chess-logowanie.png "Local Image")
+### login (imię i nazwisko ucznia): Jan Kowalski
+### hasło: szach
+
+
 
 <i>"Trening czyni mistrza..."</i>
 
