@@ -18,10 +18,10 @@ Dzień dobry, zapraszamy do nowej platformy treningowej dla naszych uczniów
 ### login (to nazwa konta tego ucznia na Lichess): JanekZet
 ### hasło: szach
 
-![ekran logowania](/uploads/chess-panel.png)
+![ekran panel](/uploads/chess-panel.png)
 
 
-![ekran logowania](/uploads/chess-zadania.png)
+![ekran zadania](/uploads/chess-zadania.png)
 
 
 <i>"Trening czyni mistrza..."</i>
