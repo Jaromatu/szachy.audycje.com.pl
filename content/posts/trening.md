@@ -16,8 +16,8 @@ https://app.szkolkaszachowa.pl/
 Dzień dobry, zapraszamy do nowej platformy treningowej dla naszych uczniów 
 
 ### login to nazwa konta tego ucznia na Lichess np:
+### hasło to hasło jakie zostanie wysłane do danego ucznia POPRZEZ wiadomość na Lichess na konto ucznia! czyli uczeń z loginem "JanekZet" dostanie na konto na Lichess:"JanekZet" wiadomość od trenera z hasłem do portalu "szkolkaszachowa" np "szachy96", wtedy wpisujemy na ekranie logowania:
 ### login : JanekZet
-### hasło to hasło jakie zostanie wysłane do danego ucznia POPRZEZ wiadomość na Lichess na konto ucznia! czyli uczeń z loginem "JAnekZet" dostanie na konto na Lichess "JanekZet" wiadomość od trenera z hasłem do portalu "szkolkaszachowa" np
 ### hasło: szachy96
 <br>
 ### Uczeń dostanie zupełnie nowe narzędzia treningowe:
