@@ -7,7 +7,7 @@ Uruchamiamy kolejne turnieje i inne atrakcje dla początkujących i kontynuując
 
 
 ### Zapraszamy uczniów zaprzyjaźnionych z naszą Fundacją wysokiej klasy trenerów, w szczególności Mistrza Fide Czesława Spisaka oraz tradycyjnie uczniów naszych grup początkujących.
-![ekran logowania](/uploads/czeslaw.jpg)
+![czesław](/uploads/czeslaw.jpg)
 
 Turniej treningowy odbędzie niedzielę, ### 09.02.2025 o godz 16.00 zapraszamy do gry początkujących graczy, tych bez kategorii szachowej, 
 
