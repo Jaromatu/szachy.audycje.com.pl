@@ -2,8 +2,23 @@
 title: "Turnieje szachowe"
 date: 2024-08-30T09:38:32+02:00
 ---
-### W związku z nowym rokiem szkolnym 
+### W związku z nowym rokiem 2025 r 
 Uruchamiamy kolejne turnieje i inne atrakcje dla początkujących i kontynuujących u nas naukę szachistów. 
+
+
+### Zapraszamy uczniów zaprzyjaźnionych z naszą Fundacją wysokiej klasy trenerów, w szczególności Mistrza Fide Czesława Spisaka oraz tradycyjnie uczniów naszych grup początkujących.
+![ekran logowania](/uploads/czeslaw.png)
+
+Turniej treningowy odbędzie niedzielę, ### 09.02.2025 o godz 16.00 zapraszamy do gry początkujących graczy, tych bez kategorii szachowej, 
+
+
+Dzień dobry, jak zwykle w niedzielę gramy 2 turnieje pierwszy o 16:00 dla początkujących 
+wejście na turniej:
+lichess.org/tournament/anka1bHZ 
+hasło: mistrz
+
+W niedzielę, 09.02.2025, drugi dla średniozaawansowanych o 16:30 lichess.org/tournament/oJ1Gva2t
+hasło: mistrz
 
 ### <br> Nasza Fundacja współorganizuje szachowy turniej Mikołajkowy na żywo z medalami oraz nagrodami, zapraszamy zatem naszych uczniów, szczegóły oraz zapisy są na:
 
