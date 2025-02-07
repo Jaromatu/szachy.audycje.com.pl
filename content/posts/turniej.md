@@ -7,9 +7,8 @@ Uruchamiamy kolejne turnieje i inne atrakcje dla początkujących i kontynuując
 
 
 ### Zapraszamy uczniów zaprzyjaźnionych z naszą Fundacją wysokiej klasy trenerów, w szczególności Mistrza Fide Czesława Spisaka oraz tradycyjnie uczniów naszych grup początkujących.
-![czesław](/uploads/czeslaw.jpg)
 
-Turniej treningowy odbędzie niedzielę, ### 09.02.2025 o godz 16.00 zapraszamy do gry początkujących graczy, tych bez kategorii szachowej, 
+Turniej treningowy odbędzie niedzielę, ### 09.02.2025 o godz 16.00 ### zapraszamy do gry początkujących graczy, tych bez kategorii szachowej, 
 
 
 Dzień dobry, jak zwykle w niedzielę gramy 2 turnieje pierwszy o 16:00 dla początkujących 
@@ -19,6 +18,8 @@ hasło: mistrz
 
 W niedzielę, 09.02.2025, drugi dla średniozaawansowanych o 16:30 lichess.org/tournament/oJ1Gva2t
 hasło: mistrz
+
+![czesław](/uploads/czeslaw.jpg)
 
 ### <br> Nasza Fundacja współorganizuje szachowy turniej Mikołajkowy na żywo z medalami oraz nagrodami, zapraszamy zatem naszych uczniów, szczegóły oraz zapisy są na:
 
