@@ -13,13 +13,13 @@ Dzień dobry, jak zwykle w niedzielę **gramy dwa turnieje** pierwszy **o 15:00 
 Pierwszy turniej treningowy zaczyna się w niedzielę, **09.02.2025 o godz 15.00** zapraszamy do gry **wyłącznie** początkujących graczy, czyli tych bez kategorii szachowej 
 
 ### aby wejść na turniej kliknij w ten link:
-albo skopiuj go ręcznie: https://lichess.org/tournament/puhWfseG
+albo skopiuj go ręcznie: https://lichess.org/tournament/mnOHDdb5
 ### hasło do turnieju: mistrz
 
 Drugi turniej treningowy WYŁĄCZNIE dla średniozaawansowanych, czyli tych mających kategorie szachowe lub ranking nie więcej niż 1600 ELO, 
 zaczyna w niedzielę, **09.02.2025 o 16:00**
 ### aby wejść na turniej kliknij w ten link:
-albo skopiuj go ręcznie: https://lichess.org/tournament/6GTJgk8g
+albo skopiuj go ręcznie: https://lichess.org/tournament/6LHl4E6C
 ### hasło do turnieju: mistrz
 
 Tutaj mały żart szachowy dla rozluźnienia przed turniejem:
