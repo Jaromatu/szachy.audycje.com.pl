@@ -12,7 +12,10 @@ Dzień dobry, jak zwykle w niedzielę **gramy dwa turnieje** pierwszy **o 15:00 
 
 Pierwszy turniej treningowy zaczyna się w niedzielę, **16.02.2025 o godz 15.00** zapraszamy do gry **wyłącznie** początkujących graczy, czyli tych bez kategorii szachowej 
 
-### aby wejść na turniej kliknij w ten link:
+### uwaga! LINKI do turnieju będą aktywne dopiero OD SOBOTY od godz 18.00 z powodu wymogów platformy szachowej Lichess!!!
+Prosimy zatem NIE zgłaszać, że link nie działa, bo może on działać dopiero PO podanym terminie!
+
+Zatem aby wejść na turniej kliknij w ten link:
 albo skopiuj go ręcznie: https://lichess.org/tournament/mnOHDdb5
 ### hasło do turnieju: mistrz
 
