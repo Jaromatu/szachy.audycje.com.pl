@@ -44,6 +44,4 @@ Oto instrukcja jak stworzyć konto na platformie szachowej lichess. (nie dotyczy
 Od teraz dziecko może brać udział w grach oraz turniejach online na platformie lichess.org. Dodatkowo może grać z kolegami i trenować samodzielnie, co tylko przyspieszy rozwój i zwiększy efekty nauczania.
 
 
-<div style="background-color: lightblue; padding: 10px;">
-To jest tekst na niebieskim tle.
-</div>
+
