@@ -16,7 +16,7 @@ Pierwszy turniej treningowy zaczyna się w niedzielę, **16.02.2025 o godz 15.00
 Prosimy zatem NIE zgłaszać, że link nie działa, bo może on działać dopiero PO podanym terminie!
 
 Zatem aby wejść na turniej kliknij w ten link:
-albo skopiuj go ręcznie: https://lichess.org/tournament/mnOHDdb5
+albo skopiuj go ręcznie: https://lichess.org/tournament/4JumniVp
 ### hasło do turnieju: mistrz
 
 Drugi turniej treningowy WYŁĄCZNIE dla średniozaawansowanych, czyli tych mających kategorie szachowe lub ranking nie więcej niż 1600 ELO, 
