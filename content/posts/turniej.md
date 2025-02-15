@@ -28,7 +28,7 @@ albo skopiuj go ręcznie: https://lichess.org/tournament/6LHl4E6C
 Tutaj mały żart szachowy dla rozluźnienia przed turniejem:
 ![czesław](/uploads/czeslaw.jpg)
 
-Dzień dobry, jak zwykle w niedzielę **gramy dwa turnieje** pierwszy **o 15:00 dla początkujących** a drugi **o 16.00 dla średniozaawansowanych**
+W niedzielę **09.02.2025** **gramy dwa turnieje** pierwszy **o 15:00 dla początkujących** a drugi **o 16.00 dla średniozaawansowanych**
 
 Pierwszy turniej treningowy zaczyna się w niedzielę, **09.02.2025 o godz 15.00** zapraszamy do gry **wyłącznie** początkujących graczy, czyli tych bez kategorii szachowej 
 
