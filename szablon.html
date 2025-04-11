@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{title}}</title>
+    <link rel="stylesheet" href="/static/styles1.css" />
+  </head>
+
+  <body>
+    <div id="container">
+      <div class="zmien3">
+        <a href="wladca.html"><button>Wróć</button></a>
+      </div>
+      <div id="logo">
+        <h1>{{title}}</h1>
+      </div>
+
+      <div id="nav">
+        {{#best_games}}
+        <h2>Najciekawsze partie:</h2>
+        {{#best_games}}
+        <a href="{{.}}" target="_blank">{{.}}</a>
+        {{/best_games}} {{/best_games}}
+      </div>
+
+      <div id="content">
+        <img src="{{image}}" class="image" />
+
+        <div class="text">
+          {{description}} {{#links}} {{#links}}
+          <a href="{{.}}" target="_blank">{{.}}</a>
+          {{/links}} {{/links}} {{^links}}
+          <p>Brak linków do wyświetlenia.</p>
+          {{/links}}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
